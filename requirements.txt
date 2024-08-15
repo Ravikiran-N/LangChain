@@ -1,0 +1,14 @@
+langchain_community
+langchain_openai
+streamlit
+langchain_openai
+langchain_core
+python-dotenv
+uvicorn
+fastapi
+langserve
+sse_starlette
+langsmith_schemas
+langchain_text_splitters
+arxiv
+langchainhub
